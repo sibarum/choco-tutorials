@@ -26,8 +26,8 @@ I'll answer that question by asking a question of my own: How would you tell a c
 
 **Constraint Programming**:
 
-    solver.post(numTrees < 10)
-    solver.post(volumeOfWater < 20)
-    solver.post(numDistinctColors = 5)
-    solver.solve()
+    numTrees < 10
+    volumeOfWater < 20
+    numDistinctColors = 5
+    solve()
 
