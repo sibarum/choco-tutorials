@@ -1,6 +1,6 @@
 # Choco Tutorials
 
-Tutorials for Choco, a Constraint Programming library for Java. Designed for average developers, not scholars.
+Tutorials for Choco, a Constraint Programming library for Java. Designed for average developers, not scholars. A work-in-progress. An attempt to use as many code samples as possible, as little reading as possible.
 
 ## What is constraint programming?
 
